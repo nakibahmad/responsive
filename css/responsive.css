@@ -1,0 +1,222 @@
+@media (max-width:1400px) {} 
+@media (max-width:1399px) {} 
+@media (max-width:1200px) {} 
+@media (max-width:1199px) {
+    .counter-item p {
+        font-size: 20px;
+    }
+    .counter-item h1 {
+        font-size: 40px;
+    }
+    .feature-right-content p {
+        font-size: 15px;
+    }
+    .feature-right-content h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .cardd-image img {
+        position: absolute;
+        top: -70px;
+        left: 19px;
+        width: 150px !important;
+    }
+} 
+@media (max-width:1050px) {
+    .counter-item p {
+        font-size: 20px;
+    }
+    .counter-item h1 {
+        font-size: 40px;
+    }
+} 
+@media (max-width:992px) {
+    .banner-butons .btn {
+        width: 160px;
+    }
+    .banner-butons input {
+        width: 208px;
+    }
+    .counter-item p {
+        font-size: 16px;
+    }
+
+    .counter-item {
+        margin: 34px 0px;
+    }
+    .activity-content h1 {
+        font-size: 40px;
+        margin-bottom: 25px;
+    }
+    .activity-content p {
+        font-size: 19px;
+    }
+    .feature-header p {
+        font-size: 22px;
+        margin-top: 20px;
+    }
+    .feature-header h1 {
+        font-size: 40px;
+    }
+    .feature-right-content p {
+        font-size: 15px;
+    }
+    .feature-right-content h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .service-items-contents {
+        margin-bottom: 30px;
+    }
+    .service-item-header h1 {
+        font-size: 45px;
+    }
+    .service-item-header p {
+        font-size: 22px;
+    }
+    .s-header-content h1 {
+        font-size: 40px;
+    }
+    .s-header-content p {
+        font-size: 20px;
+    }
+    .s-bottom-content ul li {
+        font-size: 18px;
+        line-height: 56px;
+    }
+    .s-bottom-content ul li span {
+        font-size: 20px;
+    }
+    .t-content h5 {
+        font-size: 25px;
+    }
+    .t-content h1 {
+        font-size: 40px;
+    }
+    .t-content span i {
+        font-size: 60px;
+    }
+    .t-content p {
+        font-size: 17px;
+    }
+    .team-middle-content p {
+        font-size: 17px;
+        line-height: 1.9rem;
+        margin-bottom: 25px;
+    }
+    .team-header h1 {
+        font-size: 45px;
+    }
+    .slider-content h1 {
+        font-size: 47px;
+        line-height: 4.5rem;
+        margin-bottom: 25px;
+    }
+    .slider-content h1 {
+        font-size: 44px;
+    }
+} 
+@media (max-width:991px) {
+
+
+}
+@media (max-width:781px) {
+    .banner-content p {
+        font-size: 18px;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-section {
+        padding: 120px 0px;
+    }
+    .service-items-contents {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width:768px) {
+    .banner-butons {
+        flex-direction: column;
+    }
+    .banner-butons input {
+        width: 100%;
+        margin-bottom: 20px;
+    }    
+    .banner-butons .btn {
+        width: 100%;
+    }
+    .banner-content p {
+        font-size: 18px;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .banner-section {
+        padding: 120px 0px;
+    }
+    .activity-content h1 {
+        font-size: 30px;
+        margin-bottom: 25px;
+        margin-top: 28px;
+    }
+    .activity-content p {
+        font-size: 16px;
+    }
+    .feature-header {
+        margin-top: -29px;
+    }
+    h1 {
+        font-size: 34px;
+    }
+    .feature-right-content h3 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .feature-right-content p {
+        font-size: 16px;
+    }
+    .form-caption h1 {
+        font-size: 40px;
+    }
+    .send-item h4 {
+        font-size: 28px;
+    }
+    .main-form-items input {
+        font-size: 18px;
+    }
+    .banner-butons .btn {
+        width: 160px !important;
+    }
+    .slider-btn-1 .btn {
+        padding: 15px 30px;
+        font-size: 17px;
+        margin-bottom: 25px;
+        width: 100%;
+    }
+    .banner-butons .btn {
+        font-size: 17px;
+    }
+    .slider-buttonss {
+        flex-direction: column;
+    }
+    .banner-butons .btn {
+        font-size: 17px;
+        width: 100% !important;
+    }
+    .slider-content h1 {
+        font-size: 40px;
+        line-height: 3.5rem;
+        margin-bottom: 25px;
+    }
+} 
+@media (max-width:576px) {
+    .service-item-header p {
+        font-size: 20px;
+    }
+    .service-item-header h1 {
+        font-size: 40px;
+    }
+    .slider-buttonss {
+        padding: 0px 40px;
+    }
+} 
